@@ -1,7 +1,3 @@
-# Diwali_sales_Data_Analysis
-Exploratory data analysis of Diwali sales data using Python (Pandas, Matplotlib, Seaborn) to uncover customer buying patterns by demographics and product category.
-# Diwali Sales Data Analysis
-
 ## Overview
 An exploratory data analysis (EDA) project on retail sales data collected during the Diwali festive season, built using Python. The goal is to understand *who* buys the most and *what* they buy, so a business can make data-driven marketing and inventory decisions.
 
